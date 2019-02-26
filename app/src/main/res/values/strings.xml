@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Inventory Helper</string>
+    <string name="new_producer">New Producer</string>
+    <string name="contract">Contract: </string>
+    <string name="name">Name: </string>
+    <string name="season">Season:</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_material">New material</string>
+    <string name="code">Code: </string>
+    <string name="line">Line: </string>
+    <string name="description">Description: </string>
+    <string name="unit">Unit: </string>
+    <string name="stock">Stock: </string>
+    <string name="new_order">New Order for </string>
+    <string name="delivery_number">Delivery number: </string>
+    <string name="materials">Materials</string>
+    <string name="quantity">Quantity: </string>
+    <string name="add_material">Add material</string>
+    <string name="all_producers">All producers</string>
+</resources>
